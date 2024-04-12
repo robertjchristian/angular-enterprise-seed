@@ -1,7 +1,9 @@
 
-This project is no longer under active development.  For modern projects, I recommend Bati scaffolding as a starting point: https://batijs.dev/
+# NOTE:
 
-You can go a long way with Vite, Vike, React, Typescript, Tailwind, shadcn/ui, and prisma.
+## This project is no longer under active development.  For modern webapps, I recommend Bati scaffolding as a starting point: https://batijs.dev/
+
+```You can go a long way with Vite, Vike, React, Typescript, Tailwind, shadcn/ui, and prisma.```
 
 <hr>
 
