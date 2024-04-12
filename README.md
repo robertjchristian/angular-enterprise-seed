@@ -1,4 +1,9 @@
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/robertjchristian/angular-enterprise-seed/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+This project is no longer under active development.  For modern projects, I recommend Bati scaffolding as a starting point: https://batijs.dev/
+
+You can go a long way with Vite, Vike, React, Typescript, Tailwind, shadcn/ui, and prisma.
+
+<hr>
 
 # Angular Enterprise Seed
 ## An AngularJS seed for serious web apps
